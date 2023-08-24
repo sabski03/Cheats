@@ -1,0 +1,27 @@
+git init --------------- rm -rf .git
+
+git remote add origin "Repository Link" ------------ git remote remove origin
+
+git add .
+
+git commit -m "just a random commit text"
+
+git push origin master
+
+username: sabski03
+
+password: 
+21/10/2023
+ 
+profile->settings->developer settings->personal access tokens->tokens (clasic)->generate new token->clasic->"random name"
+
+
+
+							make changes to the existing repository
+
+git add .
+
+git commit -m "random text about the changes"
+
+git remote add origin "Repository Link" ----------- git remote remove origin
+
